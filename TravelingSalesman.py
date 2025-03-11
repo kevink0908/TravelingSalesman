@@ -277,7 +277,7 @@ def GeneticAlgorithm(N, locations):
     optimalPath.append(optimalPath[0]) 
     return totalDistance, optimalPath
 
-# This is the driver program for Homework 1.
+# This is the driver program.
 def main() :
     try:
         # Open input.txt for reading.
